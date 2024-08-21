@@ -1,0 +1,7 @@
+#skr mini e3 v3.1
+#chipset: STM32G0B1 ret6
+#baud: 115200
+#ender standar lcd: esd4k cr10
+
+#in klipper folder: `make claen`, `make menuconfig`, `make`
+#after compile: `./scripts/flash-sdcard.sh /dev/ttyACM0 btt-skr-mini-e3-v3`
