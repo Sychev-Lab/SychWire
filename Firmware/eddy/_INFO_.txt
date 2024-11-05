@@ -1,0 +1,24 @@
+#skr mini e3 v3.1
+#chipset: STM32 STM32G0B1 ret6 8KiB 8mhz
+#comunication: serial pa3/pa2
+#baud: 250000
+#cristal 8
+
+#baud: 115200
+#ender standar lcd: esd4k cr10
+
+#in klipper folder: `make claen`, `make menuconfig`, `make`
+#after compile: `./scripts/flash-sdcard.sh /dev/ttyACM0 btt-skr-mini-e3-v3`
+
+
+# Klipper Shake&Tune Module
+#https://github.com/Frix-x/klippain-shaketune?tab=readme-ov-file
+
+# Klipper Linear Movement Vibrations Analysis
+#https://github.com/worksasintended/klipper_linear_movement_analysis
+
+# Pressure advance calibration
+#https://github.com/Frix-x/klippain/blob/main/docs/features/pa_calibration.md
+
+# Flow calibration
+#https://github.com/Frix-x/klippain/blob/main/docs/features/flow_calibration.md

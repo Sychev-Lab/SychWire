@@ -1,0 +1,23 @@
+# █▀ █▄█ █▀▀ █░█ █▀▀ █░█
+# ▄█ ░█░ █▄▄ █▀█ ██▄ ▀▄▀
+# 
+# Author: <Anton Sychev> (anton at sychev dot xyz) 
+# .cfg (c) 2023 
+# Created:  2023-08-21 02:06:08 
+# Desc: Macros modifies
+
+[menu __main __power]
+type: list
+name: Power
+
+[menu __main __power __reboot]
+type: command
+name: Reboot
+gcode:
+  {action_call_remote_method("reboot_machine")}
+
+[menu __main __power __shutdown]
+type: command
+name: Shutdown
+gcode:
+  {action_call_remote_method("shutdown_machine")}
