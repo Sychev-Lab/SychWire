@@ -1,5 +1,8 @@
 # SychWire
 
+![SychWire](Manuals/header-full-image.jpeg)
+![SychWire](Manuals/header-full-image2.jpeg)
+
 
 This is a custom modification by the author. From a Voron SwitchWire 3D printer.
 Original Link project: https://github.com/VoronDesign/Voron-Switchwire
@@ -38,7 +41,7 @@ In the mod I use:
 
 # Head set
 
-![Cabezal](manual/hotend-front-cr10 v27.jpeg)
+![Cabezal](Manuals/hotend-front-cr10.jpeg)
 
 It consists of a fixed part that is part of the base and is screwed to the rail reel with four M3x10 screws.
 In which the stopend is screwed at the rear, it has to be placed before screwing the base. The same is true for the fan layer, which is screwed on with two screws that come as standard.
@@ -46,6 +49,12 @@ In which the stopend is screwed at the rear, it has to be placed before screwing
 Once screwed, the straps can be mounted and fastened with its corresponding screw on each side.
 
 On top of the base, the rest of the elements are fitted: top cover with Eddy Coil, fan, Hotend, Sherpa and PCB board.
+
+![Cabezal](Manuals/hotend-front-cr10-1.jpeg)
+![Cabezal](Manuals/hotend-front-cr10-2.jpeg)
+![Cabezal](Manuals/hotend-front-cr10-3.jpeg)
+![Cabezal](Manuals/hotend-front-cr10-4.jpeg)
+
 
 ---
 
